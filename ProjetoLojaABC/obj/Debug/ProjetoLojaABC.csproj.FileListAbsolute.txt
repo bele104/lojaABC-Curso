@@ -1,0 +1,111 @@
+C:\Users\Laboratorio-Info\source\repos\EmpresaABC\ProjetoLojaABC\bin\Debug\ProjetoLojaABC.exe.config
+C:\Users\Laboratorio-Info\source\repos\EmpresaABC\ProjetoLojaABC\bin\Debug\ProjetoLojaABC.exe
+C:\Users\Laboratorio-Info\source\repos\EmpresaABC\ProjetoLojaABC\bin\Debug\ProjetoLojaABC.pdb
+C:\Users\Laboratorio-Info\source\repos\EmpresaABC\ProjetoLojaABC\obj\Debug\ProjetoLojaABC.csproj.AssemblyReference.cache
+C:\Users\Laboratorio-Info\source\repos\EmpresaABC\ProjetoLojaABC\obj\Debug\ProjetoLojaABC.frmSplash.resources
+C:\Users\Laboratorio-Info\source\repos\EmpresaABC\ProjetoLojaABC\obj\Debug\ProjetoLojaABC.Properties.Resources.resources
+C:\Users\Laboratorio-Info\source\repos\EmpresaABC\ProjetoLojaABC\obj\Debug\ProjetoLojaABC.csproj.GenerateResource.cache
+C:\Users\Laboratorio-Info\source\repos\EmpresaABC\ProjetoLojaABC\obj\Debug\ProjetoLojaABC.csproj.CoreCompileInputs.cache
+C:\Users\Laboratorio-Info\source\repos\EmpresaABC\ProjetoLojaABC\obj\Debug\ProjetoLojaABC.exe
+C:\Users\Laboratorio-Info\source\repos\EmpresaABC\ProjetoLojaABC\obj\Debug\ProjetoLojaABC.pdb
+C:\Users\Laboratorio-Info\source\repos\EmpresaABC\ProjetoLojaABC\obj\Debug\ProjetoLojaABC.frmLogin.resources
+C:\Users\Laboratorio-Info\Documents\Visual Studio 2019\projetoCSharp3H2024\ProjetoLojaABC\bin\Debug\ProjetoLojaABC.exe.config
+C:\Users\Laboratorio-Info\Documents\Visual Studio 2019\projetoCSharp3H2024\ProjetoLojaABC\bin\Debug\ProjetoLojaABC.exe
+C:\Users\Laboratorio-Info\Documents\Visual Studio 2019\projetoCSharp3H2024\ProjetoLojaABC\bin\Debug\ProjetoLojaABC.pdb
+C:\Users\Laboratorio-Info\Documents\Visual Studio 2019\projetoCSharp3H2024\ProjetoLojaABC\obj\Debug\ProjetoLojaABC.csproj.AssemblyReference.cache
+C:\Users\Laboratorio-Info\Documents\Visual Studio 2019\projetoCSharp3H2024\ProjetoLojaABC\obj\Debug\ProjetoLojaABC.frmLogin.resources
+C:\Users\Laboratorio-Info\Documents\Visual Studio 2019\projetoCSharp3H2024\ProjetoLojaABC\obj\Debug\ProjetoLojaABC.frmMenuPrincipal.resources
+C:\Users\Laboratorio-Info\Documents\Visual Studio 2019\projetoCSharp3H2024\ProjetoLojaABC\obj\Debug\ProjetoLojaABC.frmSplash.resources
+C:\Users\Laboratorio-Info\Documents\Visual Studio 2019\projetoCSharp3H2024\ProjetoLojaABC\obj\Debug\ProjetoLojaABC.Properties.Resources.resources
+C:\Users\Laboratorio-Info\Documents\Visual Studio 2019\projetoCSharp3H2024\ProjetoLojaABC\obj\Debug\ProjetoLojaABC.csproj.GenerateResource.cache
+C:\Users\Laboratorio-Info\Documents\Visual Studio 2019\projetoCSharp3H2024\ProjetoLojaABC\obj\Debug\ProjetoLojaABC.csproj.CoreCompileInputs.cache
+C:\Users\Laboratorio-Info\Documents\Visual Studio 2019\projetoCSharp3H2024\ProjetoLojaABC\obj\Debug\ProjetoLojaABC.exe
+C:\Users\Laboratorio-Info\Documents\Visual Studio 2019\projetoCSharp3H2024\ProjetoLojaABC\obj\Debug\ProjetoLojaABC.pdb
+C:\Users\Laboratorio-Info\Documents\Visual Studio 2019\projetoCSharp3H2024\ProjetoLojaABC\obj\Debug\ProjetoLojaABC.frmSobre.resources
+C:\Users\Laboratorio-Info\Documents\Visual Studio 2019\projetoCSharp3H2024\ProjetoLojaABC\obj\Debug\ProjetoLojaABC.frmFuncionarios.resources
+C:\Users\Laboratorio-Info\Documents\Visual Studio 2019\projetoCSharp3H2024\ProjetoLojaABC\obj\Debug\ProjetoLojaABC.frmPesquisar.resources
+C:\Users\Laboratorio-Info\Documents\Visual Studio 2019\projetoCSharp3H2024\ProjetoLojaABC\obj\Debug\ProjetoLojaABC.frmCalculadora.resources
+C:\Users\Laboratorio-Info\Documents\Visual Studio 2019\projetoCSharp3H2024\ProjetoLojaABC\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Laboratorio-Info\Documents\Visual Studio 2019\projetoCSharp3H2024\ProjetoLojaABC\bin\Debug\Google.Protobuf.dll
+C:\Users\Laboratorio-Info\Documents\Visual Studio 2019\projetoCSharp3H2024\ProjetoLojaABC\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Laboratorio-Info\Documents\Visual Studio 2019\projetoCSharp3H2024\ProjetoLojaABC\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Laboratorio-Info\Documents\Visual Studio 2019\projetoCSharp3H2024\ProjetoLojaABC\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Laboratorio-Info\Documents\Visual Studio 2019\projetoCSharp3H2024\ProjetoLojaABC\bin\Debug\MySql.Data.dll
+C:\Users\Laboratorio-Info\Documents\Visual Studio 2019\projetoCSharp3H2024\ProjetoLojaABC\bin\Debug\System.Buffers.dll
+C:\Users\Laboratorio-Info\Documents\Visual Studio 2019\projetoCSharp3H2024\ProjetoLojaABC\bin\Debug\System.IO.Pipelines.dll
+C:\Users\Laboratorio-Info\Documents\Visual Studio 2019\projetoCSharp3H2024\ProjetoLojaABC\bin\Debug\System.Memory.dll
+C:\Users\Laboratorio-Info\Documents\Visual Studio 2019\projetoCSharp3H2024\ProjetoLojaABC\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Laboratorio-Info\Documents\Visual Studio 2019\projetoCSharp3H2024\ProjetoLojaABC\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Laboratorio-Info\Documents\Visual Studio 2019\projetoCSharp3H2024\ProjetoLojaABC\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Laboratorio-Info\Documents\Visual Studio 2019\projetoCSharp3H2024\ProjetoLojaABC\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\Laboratorio-Info\Documents\Visual Studio 2019\projetoCSharp3H2024\ProjetoLojaABC\bin\Debug\Google.Protobuf.pdb
+C:\Users\Laboratorio-Info\Documents\Visual Studio 2019\projetoCSharp3H2024\ProjetoLojaABC\bin\Debug\Google.Protobuf.xml
+C:\Users\Laboratorio-Info\Documents\Visual Studio 2019\projetoCSharp3H2024\ProjetoLojaABC\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Laboratorio-Info\Documents\Visual Studio 2019\projetoCSharp3H2024\ProjetoLojaABC\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Laboratorio-Info\Documents\Visual Studio 2019\projetoCSharp3H2024\ProjetoLojaABC\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Laboratorio-Info\Documents\Visual Studio 2019\projetoCSharp3H2024\ProjetoLojaABC\bin\Debug\MySql.Data.xml
+C:\Users\Laboratorio-Info\Documents\Visual Studio 2019\projetoCSharp3H2024\ProjetoLojaABC\bin\Debug\System.Buffers.xml
+C:\Users\Laboratorio-Info\Documents\Visual Studio 2019\projetoCSharp3H2024\ProjetoLojaABC\bin\Debug\System.IO.Pipelines.xml
+C:\Users\Laboratorio-Info\Documents\Visual Studio 2019\projetoCSharp3H2024\ProjetoLojaABC\bin\Debug\System.Memory.xml
+C:\Users\Laboratorio-Info\Documents\Visual Studio 2019\projetoCSharp3H2024\ProjetoLojaABC\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Laboratorio-Info\Documents\Visual Studio 2019\projetoCSharp3H2024\ProjetoLojaABC\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Laboratorio-Info\Documents\Visual Studio 2019\projetoCSharp3H2024\ProjetoLojaABC\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Laboratorio-Info\Documents\Visual Studio 2019\projetoCSharp3H2024\ProjetoLojaABC\obj\Debug\ProjetoLojaABC.csproj.CopyComplete
+C:\Users\Laboratorio-Info\Documents\Visual Studio 2019\projetoCSharp3H2024\ProjetoLojaABC\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\Laboratorio-Info\Documents\Visual Studio 2019\projetoCSharp3H2024\ProjetoLojaABC\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Laboratorio-Info\Documents\Visual Studio 2019\projetoCSharp3H2024\ProjetoLojaABC\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\Laboratorio-Info\Documents\Visual Studio 2019\projetoCSharp3H2024\ProjetoLojaABC\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Laboratorio-Info\Documents\Visual Studio 2019\projetoCSharp3H2024\ProjetoLojaABC\bin\Debug\ZstdSharp.dll
+C:\Users\Laboratorio-Info\Documents\Visual Studio 2019\projetoCSharp3H2024\ProjetoLojaABC\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\Laboratorio-Info\Documents\Visual Studio 2019\projetoCSharp3H2024\ProjetoLojaABC\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Laboratorio-Info\Documents\Visual Studio 2019\projetoCSharp3H2024\ProjetoLojaABC\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\PC\OneDrive\Documents\Visual Studio 2019\lojaABC\ProjetoLojaABC\bin\Debug\ProjetoLojaABC.exe.config
+C:\Users\PC\OneDrive\Documents\Visual Studio 2019\lojaABC\ProjetoLojaABC\bin\Debug\ProjetoLojaABC.exe
+C:\Users\PC\OneDrive\Documents\Visual Studio 2019\lojaABC\ProjetoLojaABC\bin\Debug\ProjetoLojaABC.pdb
+C:\Users\PC\OneDrive\Documents\Visual Studio 2019\lojaABC\ProjetoLojaABC\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\PC\OneDrive\Documents\Visual Studio 2019\lojaABC\ProjetoLojaABC\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\PC\OneDrive\Documents\Visual Studio 2019\lojaABC\ProjetoLojaABC\bin\Debug\Google.Protobuf.dll
+C:\Users\PC\OneDrive\Documents\Visual Studio 2019\lojaABC\ProjetoLojaABC\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\PC\OneDrive\Documents\Visual Studio 2019\lojaABC\ProjetoLojaABC\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\PC\OneDrive\Documents\Visual Studio 2019\lojaABC\ProjetoLojaABC\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\PC\OneDrive\Documents\Visual Studio 2019\lojaABC\ProjetoLojaABC\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\PC\OneDrive\Documents\Visual Studio 2019\lojaABC\ProjetoLojaABC\bin\Debug\MySql.Data.dll
+C:\Users\PC\OneDrive\Documents\Visual Studio 2019\lojaABC\ProjetoLojaABC\bin\Debug\System.Buffers.dll
+C:\Users\PC\OneDrive\Documents\Visual Studio 2019\lojaABC\ProjetoLojaABC\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\PC\OneDrive\Documents\Visual Studio 2019\lojaABC\ProjetoLojaABC\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\PC\OneDrive\Documents\Visual Studio 2019\lojaABC\ProjetoLojaABC\bin\Debug\System.IO.Pipelines.dll
+C:\Users\PC\OneDrive\Documents\Visual Studio 2019\lojaABC\ProjetoLojaABC\bin\Debug\System.Memory.dll
+C:\Users\PC\OneDrive\Documents\Visual Studio 2019\lojaABC\ProjetoLojaABC\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\PC\OneDrive\Documents\Visual Studio 2019\lojaABC\ProjetoLojaABC\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\PC\OneDrive\Documents\Visual Studio 2019\lojaABC\ProjetoLojaABC\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\PC\OneDrive\Documents\Visual Studio 2019\lojaABC\ProjetoLojaABC\bin\Debug\ZstdSharp.dll
+C:\Users\PC\OneDrive\Documents\Visual Studio 2019\lojaABC\ProjetoLojaABC\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\PC\OneDrive\Documents\Visual Studio 2019\lojaABC\ProjetoLojaABC\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\PC\OneDrive\Documents\Visual Studio 2019\lojaABC\ProjetoLojaABC\bin\Debug\Google.Protobuf.pdb
+C:\Users\PC\OneDrive\Documents\Visual Studio 2019\lojaABC\ProjetoLojaABC\bin\Debug\Google.Protobuf.xml
+C:\Users\PC\OneDrive\Documents\Visual Studio 2019\lojaABC\ProjetoLojaABC\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\PC\OneDrive\Documents\Visual Studio 2019\lojaABC\ProjetoLojaABC\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\PC\OneDrive\Documents\Visual Studio 2019\lojaABC\ProjetoLojaABC\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\PC\OneDrive\Documents\Visual Studio 2019\lojaABC\ProjetoLojaABC\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\PC\OneDrive\Documents\Visual Studio 2019\lojaABC\ProjetoLojaABC\bin\Debug\MySql.Data.xml
+C:\Users\PC\OneDrive\Documents\Visual Studio 2019\lojaABC\ProjetoLojaABC\bin\Debug\System.Buffers.xml
+C:\Users\PC\OneDrive\Documents\Visual Studio 2019\lojaABC\ProjetoLojaABC\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\PC\OneDrive\Documents\Visual Studio 2019\lojaABC\ProjetoLojaABC\bin\Debug\System.IO.Pipelines.xml
+C:\Users\PC\OneDrive\Documents\Visual Studio 2019\lojaABC\ProjetoLojaABC\bin\Debug\System.Memory.xml
+C:\Users\PC\OneDrive\Documents\Visual Studio 2019\lojaABC\ProjetoLojaABC\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\PC\OneDrive\Documents\Visual Studio 2019\lojaABC\ProjetoLojaABC\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\PC\OneDrive\Documents\Visual Studio 2019\lojaABC\ProjetoLojaABC\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\PC\OneDrive\Documents\Visual Studio 2019\lojaABC\ProjetoLojaABC\obj\Debug\ProjetoLojaABC.csproj.AssemblyReference.cache
+C:\Users\PC\OneDrive\Documents\Visual Studio 2019\lojaABC\ProjetoLojaABC\obj\Debug\ProjetoLojaABC.frmCalculadora.resources
+C:\Users\PC\OneDrive\Documents\Visual Studio 2019\lojaABC\ProjetoLojaABC\obj\Debug\ProjetoLojaABC.frmFuncionarios.resources
+C:\Users\PC\OneDrive\Documents\Visual Studio 2019\lojaABC\ProjetoLojaABC\obj\Debug\ProjetoLojaABC.frmLogin.resources
+C:\Users\PC\OneDrive\Documents\Visual Studio 2019\lojaABC\ProjetoLojaABC\obj\Debug\ProjetoLojaABC.frmMenuPrincipal.resources
+C:\Users\PC\OneDrive\Documents\Visual Studio 2019\lojaABC\ProjetoLojaABC\obj\Debug\ProjetoLojaABC.frmPesquisar.resources
+C:\Users\PC\OneDrive\Documents\Visual Studio 2019\lojaABC\ProjetoLojaABC\obj\Debug\ProjetoLojaABC.frmSobre.resources
+C:\Users\PC\OneDrive\Documents\Visual Studio 2019\lojaABC\ProjetoLojaABC\obj\Debug\ProjetoLojaABC.frmSplash.resources
+C:\Users\PC\OneDrive\Documents\Visual Studio 2019\lojaABC\ProjetoLojaABC\obj\Debug\ProjetoLojaABC.Properties.Resources.resources
+C:\Users\PC\OneDrive\Documents\Visual Studio 2019\lojaABC\ProjetoLojaABC\obj\Debug\ProjetoLojaABC.csproj.GenerateResource.cache
+C:\Users\PC\OneDrive\Documents\Visual Studio 2019\lojaABC\ProjetoLojaABC\obj\Debug\ProjetoLojaABC.csproj.CoreCompileInputs.cache
+C:\Users\PC\OneDrive\Documents\Visual Studio 2019\lojaABC\ProjetoLojaABC\obj\Debug\ProjetoLojaABC.csproj.CopyComplete
+C:\Users\PC\OneDrive\Documents\Visual Studio 2019\lojaABC\ProjetoLojaABC\obj\Debug\ProjetoLojaABC.exe
+C:\Users\PC\OneDrive\Documents\Visual Studio 2019\lojaABC\ProjetoLojaABC\obj\Debug\ProjetoLojaABC.pdb
